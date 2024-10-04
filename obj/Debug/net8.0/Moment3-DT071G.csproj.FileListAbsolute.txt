@@ -1,0 +1,14 @@
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\bin\Debug\net8.0\Moment3-DT071G.exe
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\bin\Debug\net8.0\Moment3-DT071G.deps.json
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\bin\Debug\net8.0\Moment3-DT071G.runtimeconfig.json
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\bin\Debug\net8.0\Moment3-DT071G.dll
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\bin\Debug\net8.0\Moment3-DT071G.pdb
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.AssemblyInfoInputs.cache
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.AssemblyInfo.cs
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.csproj.CoreCompileInputs.cache
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.dll
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\refint\Moment3-DT071G.dll
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.pdb
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\Moment3-DT071G.genruntimeconfig.cache
+C:\Users\46700\Desktop\C#\Moment3\Moment3-DT071G\obj\Debug\net8.0\ref\Moment3-DT071G.dll
